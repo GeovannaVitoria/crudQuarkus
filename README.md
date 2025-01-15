@@ -1,4 +1,4 @@
-# CRUD utilizando Java 17 e quarkus 3.17
+# CRUD utilizando Java e Quarkus
 
 1. Java 17
 2. Quarkus 3.17
